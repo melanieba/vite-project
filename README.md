@@ -1,8 +1,14 @@
-# React + Vite
+# HW3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# This project is the reactjs single app. Started on 5173 port
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# We use server from HW2 for all non public APIs on port 3001
+export PORT=3001 && npm start
+
+# We use server from HW1 for all public APIs on port 3000
+export PORT=3000 && npm start
+
+# vite.config defines the proxy there
+
