@@ -2,6 +2,7 @@
 
 
 # This project is the reactjs single app. Started on 5173 port
+# http://localhost:5173/
 npm run dev
 
 # We use server from HW2 for all non public APIs on port 3001
