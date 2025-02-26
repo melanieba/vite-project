@@ -1,7 +1,7 @@
 # HW3
 
 
-# This project is the reactjs single app. Started on 5173 port
+# This project is a ReactJS single app. Started on 5173 port
 # http://localhost:5173/
 npm run dev
 
@@ -13,3 +13,5 @@ export PORT=3000 && npm start
 
 # vite.config defines the proxy there
 
+# username: Melanie
+# password: a1b2c3

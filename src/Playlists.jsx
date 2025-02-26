@@ -78,7 +78,7 @@ export function Playlists() {
 
       <br></br>
       <br></br>
-      <a href='/new'>Add new play list</a>
+      <a href='/new'>Add new playlist</a>
 
     </>
   )
